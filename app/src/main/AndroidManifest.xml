@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.week1day2_palidrome_anagram_duplicates">
+    package="com.example.week1daytestarmstrong">
 
     <application
         android:allowBackup="true"
