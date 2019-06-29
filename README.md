@@ -1,5 +1,7 @@
 # testweek01
 
+// I keep Running into trouble with Github, it keeps asking for a security token. Sometimes resetting my password helps other times not. 
+
 Constraint, Linear, Grid and Relative, Coordinator
 
 Constraint:
